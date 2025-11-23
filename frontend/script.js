@@ -1,4 +1,5 @@
-const API_URL = "https://employeemanage-bwvj.onrender.com";  // 🔥 YOUR BACKEND URL
+const API_URL = "https://employeemanage-bvvj.onrender.com";  // ✔ Correct backend URL
+
 
 const form = document.getElementById("employeeForm");
 const table = document.getElementById("employeeTable");

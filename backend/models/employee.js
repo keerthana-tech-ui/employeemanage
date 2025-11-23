@@ -1,3 +1,5 @@
+const API_URL = "https://employeemanage-bvvj.onrender.com";
+
 const mongoose = require('mongoose');
 
 const EmployeeSchema = new mongoose.Schema({
